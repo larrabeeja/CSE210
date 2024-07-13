@@ -1,0 +1,20 @@
+{
+  "Score": 1200,
+  "Goals": [
+    {
+      "Name": "Run a marathon",
+      "Points": 1000,
+      "Completed": true
+    },
+    {
+      "Name": "Read scriptures",
+      "Points": 100,
+      "Completed": false
+    },
+    {
+      "Name": "Attend temple",
+      "Points": 50,
+      "Completed": false
+    }
+  ]
+}
